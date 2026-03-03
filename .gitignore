@@ -1,11 +1,4 @@
 ﻿venv/
 __pycache__/
 *.pyc
-artifacts/model.pkl
-artifacts/scaler.pkl
-artifacts/encoders.pkl
-artifacts/label_encoder.pkl
-artifacts/X_train.npy
-artifacts/X_test.npy
-artifacts/y_train.npy
-artifacts/y_test.npy
+data/
